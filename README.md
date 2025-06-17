@@ -2,4 +2,5 @@
 <p>Here's links of project-ideas I did:</p>
 <ul>
   <li><a href="https://roadmap.sh/projects/single-page-cv">Single-page CV</a></li>
+  <li><a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a></li>
 </ul>
